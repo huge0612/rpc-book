@@ -17,10 +17,10 @@
 	],
 	"pluginsConfig": {
 		"github": {
-			"url": "https://gitee.com/docafe/plab-vue-api-doc.git"
+			"url": "https://github.com/huge0612/rpc-book"
 		},
 		"sitemap": {
-			"hostname": "http://research.itcast.cn/plab-vue-api-doc/_book/"
+			"hostname": "https://github.com/huge0612/rpc-book"
 		}
 	},
    "styles": {
