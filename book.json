@@ -1,0 +1,29 @@
+{
+    "title" : "Java实现简单的RPC框架",
+    "author" : "张虎翼",
+    "description" : "Java实现简单的RPC框架",
+    "language" : "zh-hans",
+    "links" : {
+        "gitbook" : true
+    },
+    "plugins": [
+		"splitter",
+		"sitemap",
+		"prism",
+		"expandable-chapters",
+		"github",
+		"-sharing",
+		"code"
+	],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://gitee.com/docafe/plab-vue-api-doc.git"
+		},
+		"sitemap": {
+			"hostname": "http://research.itcast.cn/plab-vue-api-doc/_book/"
+		}
+	},
+   "styles": {
+    "website": "styles/website.css"
+  }
+}
